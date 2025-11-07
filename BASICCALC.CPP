@@ -5,6 +5,7 @@ using namespace std;
 
 
 
+
 class calc {
 public:
     void cal() {
