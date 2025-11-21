@@ -3,9 +3,6 @@
 #include <cmath>
 using namespace std; 
 
-
-
-
 class calc {
 
 public:
